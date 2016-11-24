@@ -6,7 +6,7 @@
 header
 {
   overflow: hidden;
-  position:fixed;
+  position: fixed;
   background: white;
 
 }
@@ -20,18 +20,18 @@ nav a
 
 nav a:hover
 {
-  color:blue;
+  color: blue;
 }
 
 .grid_9 ul
 {
-  margin-top:40px;
+  margin-top: 40px;
 }
 
 nav li
 {
   display: inline;
-  style:none;
+  style: none;
 }
 
 .hero img
@@ -54,9 +54,9 @@ nav li
 }
 .description
 {
-  height:270px;
-  background:#00a4e4;
-  color:white;
+  height: 270px;
+  background: #00a4e4;
+  color: white;
 }
 
 .description h3
@@ -79,14 +79,14 @@ navigation
 footer li
 {
   display: inline;
-  style:none;
+  style: none;
   padding-right: 30px;
 }
 
 footer a
 {
   text-decoration: none;
-  color:white;
+  color: white;
 }
 navigation ul
 {
@@ -95,12 +95,12 @@ navigation ul
 
 navigation
 {
-  margin-top:0px;
+  margin-top: 0px;
 }
 
 hr
 {
-  size:5px;
+  size: 5px;
 }
 
 .content img
