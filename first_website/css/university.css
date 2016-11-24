@@ -1,104 +1,143 @@
 .wrap
 {
-	
-	width: 960px;
-	margin: auto;
+  width: 960px;
+  margin: auto;
 }
 header
 {
-	overflow: hidden;
-	position:fixed;
-	background: white;
+  overflow: hidden;
+  position:fixed;
+  background: white;
 
 }
 
 nav a
 {
-text-decoration: none;
+  text-decoration: none;
+  font-family: 'Patua One', cursive;
+  font-size: 13px;
+}
+
+nav a:hover
+{
+  color:blue;
 }
 
 .grid_9 ul
 {
- margin-top:40px;
+  margin-top:40px;
 }
 
 nav li
 {
-display: inline;
-style:none;
+  display: inline;
+  style:none;
 }
 
 .hero img
 {
-	height: 400px;
-	margin-top: 120px;
-	background: green;
+  height: 400px;
+  margin-top: 120px;
+  background: green;
 }
 
 .main img
 {
- margin-top: 30px;
- height: 200px;
+  margin-top: 30px;
+  height: 230px;
 }
 
-.main
-{
-	
-	padding-bottom: 40px;
-	border-bottom: 20px solid black;
-}
 .hero
 {
-	overflow: hidden;
+  overflow: hidden;
 	
 }
 .description
 {
-	height:250px;
-	background:#00a4e4;
-	color:white;
+  height:270px;
+  background:#00a4e4;
+  color:white;
 }
 
 .description h3
 {
-	font-family: 'Bungee Inline', cursive;
-	padding-left: 80px;
+  font-family: 'Bungee Inline', cursive;
+  padding-left: 80px;
 }
 
 .description p
 {
-	font-family: 'Nunito', sans-serif;
-	padding-left: 20px;
-	padding-right: 20px;
+  font-family: 'Nunito', sans-serif;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 navigation
 {
-	background: black;
+  background: black;
 }
 
 footer li
 {
-display: inline;
-style:none;
-padding-right: 30px;
+  display: inline;
+  style:none;
+  padding-right: 30px;
 }
 
 footer a
 {
-text-decoration: none;
-color:white;
+  text-decoration: none;
+  color:white;
 }
 navigation ul
 {
-	margin-top: 20px;
+  margin-top: 20px;
 }
 
 navigation
 {
- margin-top:02px;
+  margin-top:0px;
 }
 
 hr
 {
-	size:5px;
+  size:5px;
+}
+
+.content img
+{
+  width: 460px;
+  height: 320px;
+
+}
+
+.content
+{
+  margin-top: 25px;
+}
+
+.first
+{
+  padding-top: 10px;
+}
+
+.leftcontent
+{
+  padding-top: 15px;
+  background: #00a4e4;
+  color:white;
+  font-family: 'Nunito', sans-serif;
+  padding-left: 6px;
+  padding-right: 6px;
+
+}
+
+.content h3
+{
+  font-family: 'Coiny', cursive;
+}
+
+.rightcontent
+{
+  font-family: 'Ravi Prakash', cursive;
+  font-size: 20px;
 }
